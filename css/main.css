@@ -1,0 +1,28 @@
+
+.carousel-container{
+  height: 100%;
+  width: 100%;
+}
+
+.carousel-container div{
+  padding-bottom: 30px;
+
+}
+
+ .carousel-item {
+  height: 100%;
+  width: 100%;
+}
+
+.carousel-item-1 {
+  background: url(../img/acadia.jpg) center center;
+  background-size: cover;
+}
+.carousel-item-2 {
+  background: url(../img/banff.jpg) center center;
+  background-size: cover;
+}
+.carousel-item-3 {
+  background: url(../img/zion.jpg) center center;
+  background-size: cover;
+}
